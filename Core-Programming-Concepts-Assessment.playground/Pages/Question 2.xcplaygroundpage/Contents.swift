@@ -24,6 +24,18 @@
  
  */
 // Answer question 2 below
+let bookName = "biography"; print()
+//I chose a constant because the name of a book is not going to change
+var copiesSold = "250_000"; print()
+// This is a variable because we dont know exactly how many people are going to purchase the book
+let bookAuthor = "joseSacal"; print()
+// this is a constant because the author wont change
+var price = "49.99"; print()
+// this is a variable because the prince may varie do to the coustomers purchase
+let yearPublished = "2018"; print()
+//this is a constant because the year is not going to change
+
+
 
 /*:
  ## Now share your understanding

@@ -23,6 +23,15 @@
  
  */
 // Answer question 3 below
+var moneySeptember = "50.00"
+var moneySpent = "1/3 of 50.00"
+let moneyGained = "10.00"
+var savings = "44.4"
+let moneyLost = "10.00"
+let oneySpent = "5.50"
+let moneyObtained = "2(moneySaved)"
+
+
 
 /*:
  ## Now share your understanding
